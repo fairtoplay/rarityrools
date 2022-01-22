@@ -5,7 +5,7 @@ const config = {
     collection_contract_address: '0xeCbd4de8c49c6caA2bcfbc8F8B18Ecbc24F8DADe',
     collection_name: 'PiggieGhost',
     collection_description: 'A generative collection of 777 PiggieGhost The PiggieGhost are stored as ERC-721 tokens on Polygon and hosted on IPFS.',
-    collection_id_from: 0,
+    collection_id_from: 1,
     ignore_traits: ['date'], 
     sqlite_file_name: 'database.sqlite',
     ga: 'G-BW69Z04YTP',
